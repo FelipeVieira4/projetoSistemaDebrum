@@ -7,3 +7,4 @@ JTextField:
 	Array qtdePecas[6];
 	Array fileteText[6];
 	Array marcacoesText[6];
+	JComboBox
