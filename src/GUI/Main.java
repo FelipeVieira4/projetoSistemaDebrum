@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args){
 		
 		new InterfaceGUI();
-		new AssistanceGUI();
+		//new AssistanceGUI();
 		
 		return;
 	}
